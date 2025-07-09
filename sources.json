@@ -362,5 +362,13 @@
     "type": "plugin",
     "tags": ["numbers"],
     "license": "mit"
+  },
+   {
+    "owner": "gavdilabs",
+    "repo": "cap-mcp-plugin",
+    "addedToBoUI5": "2025-07-09T11:37:57.868Z",
+    "type": "plugin",
+    "tags": ["mcp", "llm"],
+    "license": "apache-2.0"
   }
 ]
